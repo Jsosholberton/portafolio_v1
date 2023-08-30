@@ -1,0 +1,11 @@
+Model Information:
+* title:	Laptop Acer Nitro 5
+* source:	https://sketchfab.com/3d-models/laptop-acer-nitro-5-fdbcb37103eb4649967f98005622fd16
+* author:	lucas peres (https://sketchfab.com/lucasperes.lpc)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Laptop Acer Nitro 5" (https://sketchfab.com/3d-models/laptop-acer-nitro-5-fdbcb37103eb4649967f98005622fd16) by lucas peres (https://sketchfab.com/lucasperes.lpc) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
